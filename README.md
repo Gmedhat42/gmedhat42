@@ -127,8 +127,8 @@ I specialize in **multi-agent orchestration** and **AI-powered automation pipeli
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gmedhat42&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmedhat42&layout=compact&theme=dark&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-eight-delta-19.vercel.app/api?username=gmedhat42&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-eight-delta-19.vercel.app/api/top-langs/?username=gmedhat42&layout=compact&theme=dark&hide_border=true&count_private=true" height="165"/>
 </p>
 
 <p align="center">
