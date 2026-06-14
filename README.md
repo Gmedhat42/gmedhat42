@@ -38,7 +38,7 @@ I specialize in **multi-agent orchestration** and **AI-powered automation pipeli
 ---
 
 ### 📈 Zibi — AI DeFi Analytics Agent
-> Real-time conversational analytics over DefiLlama, CoinGlass, and 1inch
+> Real-time conversational analytics over DefiLlama, CoinGlass, and 1inch · [heyzibi.xyz](https://heyzibi.xyz)
 
 - Routes queries to correct live API endpoints across **120 endpoints / 30 categories**
 - **~90% accuracy** vs ~25% baseline — measured with promptfoo LLM-as-judge
