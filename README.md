@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI+Engineer;Agentic+Systems+%7C+LLM+Infrastructure;Multi-Agent+Orchestration+%7C+Production+Deployments" alt="Typing SVG" />
+
+</div>
+
 <h1 align="center">George Medhat Fawzy</h1>
 <h3 align="center">AI Engineer · Multi-Agent Systems · Production Automation</h3>
 
@@ -7,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/gmedhat42"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/george-medhat42"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:gmedhat42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -141,3 +147,13 @@ I specialize in **multi-agent orchestration** and **AI-powered automation pipeli
 
 **B.Sc. Computer Engineering** — German University in Cairo (GUC), 2021–2026  
 Thesis: *Using Knowledge Graphs for Hallucination Correction*
+
+---
+
+<div align="center">
+
+Open to conversations about agentic systems, LLM infrastructure, and production AI engineering.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-medhat42)
+
+</div>
